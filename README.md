@@ -3,6 +3,8 @@
 
 The goal of this project was to design and implement a Sentiment Analysis model for Hotel Reviews using state-of-the-art Transformer Architectures. Sentiment Analysis refers to the use of Natural Language Processing (NLP) techniques to classify data under class labels like negative, neurtral or positive. In this project, BERT and XLNet have been fine-tuned for Sentiment Analysis on a [Hotel Reviews dataset](https://www.kaggle.com/code/skappal7/hotel-review-sentiment-topic-modelling/input).
 
+Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/inshahaider1/bert-base-finetuned-hotel-reviews-sentiment-analysis) for inference.
+
 
 ## Setup Instructions
 
